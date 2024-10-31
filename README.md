@@ -3,7 +3,7 @@
 Reinforcement learning research obtained significant success and attention with the utilization of deep neural networks to solve problems in high dimensional state or action spaces. While deep reinforcement learning policies are currently being deployed in many different fields from medical applications to self-driving vehicles, there are still ongoing questions the field is trying to answer on the generalization capabilities of deep reinforcement learning policies. In this paper, we will outline the fundamental reasons why deep reinforcement learning policies encounter overfitting problems that limit their robustness and generalization capabilities. Furthermore, we will formalize and unify the diverse solution approaches to increase generalization, and overcome overfitting in state-action value functions. We believe our study can provide a compact systematic unified analysis for the current advancements in deep reinforcement learning, and help to construct robust deep neural policies with improved generalization abilities. 
 
 
-This repository contains the outline of the [survey](https://arxiv.org/pdf/2401.02349.pdf) with relevant links. See the [paper](https://arxiv.org/pdf/2401.02349.pdf) here for more details.
+This repository contains the outline of the [survey](https://arxiv.org/pdf/2401.02349v2) with relevant links. See the [paper](https://arxiv.org/pdf/2401.02349v2) here for more details.
 
 
 
@@ -11,7 +11,7 @@ This repository contains the outline of the [survey](https://arxiv.org/pdf/2401.
 @article{korkmazrlsurvey24,
     title={A Survey Analyzing Generalization in Deep Reinforcement Learning},
     author={Ezgi Korkmaz},
-    journal={https://arxiv.org/pdf/2401.02349.pdf},
+    journal={https://arxiv.org/pdf/2401.02349v2},
     year={2024}
 }
 ```
